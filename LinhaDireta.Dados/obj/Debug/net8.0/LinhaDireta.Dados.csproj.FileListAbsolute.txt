@@ -1,0 +1,17 @@
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\bin\Debug\net8.0\LinhaDireta.Dados.deps.json
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\bin\Debug\net8.0\LinhaDireta.Dados.runtimeconfig.json
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\bin\Debug\net8.0\LinhaDireta.Dados.dll
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\bin\Debug\net8.0\LinhaDireta.Dados.pdb
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\bin\Debug\net8.0\LinhaDireta.Dominio.dll
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\bin\Debug\net8.0\LinhaDireta.Dominio.pdb
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\obj\Debug\net8.0\LinhaDireta.Dados.csproj.AssemblyReference.cache
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\obj\Debug\net8.0\LinhaDireta.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\obj\Debug\net8.0\LinhaDireta.Dados.AssemblyInfoInputs.cache
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\obj\Debug\net8.0\LinhaDireta.Dados.AssemblyInfo.cs
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\obj\Debug\net8.0\LinhaDireta.Dados.csproj.CoreCompileInputs.cache
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\obj\Debug\net8.0\LinhaDir.6E138488.Up2Date
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\obj\Debug\net8.0\LinhaDireta.Dados.dll
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\obj\Debug\net8.0\refint\LinhaDireta.Dados.dll
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\obj\Debug\net8.0\LinhaDireta.Dados.pdb
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\obj\Debug\net8.0\LinhaDireta.Dados.genruntimeconfig.cache
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dados\obj\Debug\net8.0\ref\LinhaDireta.Dados.dll

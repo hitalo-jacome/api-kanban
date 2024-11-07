@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "LinhaDireta.API.Controllers.LinhaDiretaController",
+    "Method": "GetAllMessages",
+    "RelativePath": "api/LinhaDireta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LinhaDireta.API.Controllers.LinhaDiretaController",
+    "Method": "CreateMessage",
+    "RelativePath": "api/LinhaDireta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "linhaDireta",
+        "Type": "LinhaDireta.Dominio.Entities.LinhaDireta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LinhaDireta.API.Controllers.LinhaDiretaController",
+    "Method": "GetMessageById",
+    "RelativePath": "api/LinhaDireta/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LinhaDireta.API.Controllers.LinhaDiretaController",
+    "Method": "DeleteMessage",
+    "RelativePath": "api/LinhaDireta/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LinhaDireta.API.Controllers.LinhaDiretaController",
+    "Method": "UpdateMessage",
+    "RelativePath": "api/LinhaDireta/{id}/{statusId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "statusId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,11 @@
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dominio\bin\Debug\net8.0\LinhaDireta.Dominio.deps.json
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dominio\bin\Debug\net8.0\LinhaDireta.Dominio.dll
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dominio\bin\Debug\net8.0\LinhaDireta.Dominio.pdb
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dominio\obj\Debug\net8.0\LinhaDireta.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dominio\obj\Debug\net8.0\LinhaDireta.Dominio.AssemblyInfoInputs.cache
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dominio\obj\Debug\net8.0\LinhaDireta.Dominio.AssemblyInfo.cs
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dominio\obj\Debug\net8.0\LinhaDireta.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dominio\obj\Debug\net8.0\LinhaDireta.Dominio.dll
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dominio\obj\Debug\net8.0\refint\LinhaDireta.Dominio.dll
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dominio\obj\Debug\net8.0\LinhaDireta.Dominio.pdb
+C:\Users\97528\dev\api\LinhaDireta\LinhaDireta.Dominio\obj\Debug\net8.0\ref\LinhaDireta.Dominio.dll

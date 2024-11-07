@@ -1,0 +1,6 @@
+@LinhaDireta.API_HostAddress = http://localhost:5088
+
+GET {{LinhaDireta.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
